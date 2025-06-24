@@ -9,19 +9,13 @@ Welcome to the public repository for the JAPER Technology API. This project host
 3. Set your API key in the `Authorization` header when making requests.
 
 ```
-curl -H "Authorization: Bearer <API_KEY>" https://api.japer.io/v1/example
+curl -H "Authorization: Bearer <API_KEY>" https://api.japer.io/ping
 ```
 
 ### Example Response
 
 ```
-{
-  "status": "success",
-  "data": {
-    "id": "123",
-    "message": "Hello from JAPER"
-  }
-}
+healthy
 ```
 
 ## Accessing the JAPER API
