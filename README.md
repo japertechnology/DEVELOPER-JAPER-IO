@@ -1,6 +1,6 @@
 # developer.japer.io
 
-Welcome to the public repository regarding the JAPER Technology API. This project hosts reference material and example requests for developers who wish to integrate with JAPER.
+Welcome to the official public repository for the JAPER Technology API, where you’ll find reference materials and sample requests to help developers integrate with JAPER.
 
 ## Getting Started
 
