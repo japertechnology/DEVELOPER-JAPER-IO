@@ -18,6 +18,15 @@ curl -H "Authorization: Bearer <API_KEY>" https://api.japer.io/v1/x/ping
 healthy
 ```
 
+### Node Example
+
+A sample script using Node's `https` module is available in `examples/node/ping.js`.
+Execute it with your API key:
+
+```bash
+NODE_API_KEY=<YOUR_KEY> node examples/node/ping.js
+```
+
 ## Accessing the JAPER API
 
 - Base URL: `https://api.japer.io`
