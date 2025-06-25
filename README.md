@@ -1,38 +1,12 @@
-## JAPER Technology API
 # developer.japer.io
 
-Welcome to the public repository for the JAPER Technology API. This project hosts reference material and example requests for developers who wish to integrate with JAPER services. For the complete API reference, tutorials, and registration, visit [developer.japer.io](https://developer.japer.io).
+Welcome to the public repository regarding the JAPER Technology API. This project hosts reference material and example requests for developers who wish to integrate with JAPER.
 
 ## Getting Started
 
-1. Sign up for an account at [japer.technology](https://www.japer.technology/shop) to purchase your API key.
-2. Install any HTTP client library or use `curl` to send requests.
-3. Set your API key in the `Authorization` header when making requests.
-
-```
-curl -H "Authorization: Bearer <API_KEY>" https://api.japer.io/v1/x/ping
-```
-
-### Example Response
-
-```
-healthy
-```
-
-### Node Example
-
-A sample script using Node's `https` module is available in `examples/node/ping.js`.
-Execute it with your API key:
-
-```bash
-NODE_API_KEY=<YOUR_KEY> node examples/node/ping.js
-```
-
-## Accessing the JAPER API
-
-- Base URL: `https://api.japer.io`
-- Authentication: Bearer token provided via the `Authorization` header.
-- Full documentation and additional endpoints are available at [developer.japer.io](https://developer.japer.io).
+1. Sign up for an account at [www.japer.technology](https://www.japer.technology/shop) and purchase your API key.
+2. Read the API documentation at [developer.japer.io](https://developer.japer.io) and understand out interface.
+3. Use this GitHub documentation to quick start your implementation.
 
 ## Contributing and Feedback
 
