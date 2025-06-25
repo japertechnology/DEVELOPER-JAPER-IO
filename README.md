@@ -4,7 +4,7 @@ Welcome to the public repository for the JAPER Technology API. This project host
 
 ## Getting Started
 
-1. Sign up for a developer account at [developer.japer.io](https://developer.japer.io) to obtain your API key.
+1. Sign up for an account at [japer.technology](https://www.japer.technology/shop) to purchase your API key.
 2. Install any HTTP client library or use `curl` to send requests.
 3. Set your API key in the `Authorization` header when making requests.
 
