@@ -2,8 +2,7 @@
 
 Welcome to the official public repository for the JAPER Technology API, where you’ll find reference materials and sample requests to help developers integrate with JAPER.
 
-- /ping\n
-Check the status of JAPER AWS API Gateway.
+'/ping' Check the status of JAPER AWS API Gateway.
 
 /v1/ping
 Check the status of JAPER AWS Lambda.
