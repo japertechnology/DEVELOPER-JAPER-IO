@@ -2,7 +2,7 @@
 
 Welcome to the official public repository for the JAPER Technology API, where you’ll find reference materials and sample requests to help developers integrate with JAPER.
 
-- /ping
+- /ping\n
 Check the status of JAPER AWS API Gateway.
 
 /v1/ping
