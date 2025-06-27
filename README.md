@@ -42,4 +42,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests if y
 
 ## License
 
-This repository is released under the [MIT License](LICENSE). By contributing, you agree that your contributions will be licensed under the MIT License as well.
+This repository is released under the [MIT License](LICENSE.md). By contributing, you agree that your contributions will be licensed under the MIT License as well.
