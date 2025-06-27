@@ -1,6 +1,15 @@
-# developer.japer.io
+# developer.japer.io GitHub
 
-Welcome to the official public repository for the JAPER Technology API, where you’ll find reference materials and sample requests to help developers integrate with JAPER.
+### Welcome to the official public repository of resource for use with the JAPER Technology API.
+
+
+## Getting Started
+
+1. Sign up for an account at [www.japer.technology](https://www.japer.technology/shop) and purchase your API key.
+2. Read the API documentation at [developer.japer.io](https://developer.japer.io) and understand out interface.
+3. Use this GitHub documentation to quick start your implementation.
+
+## API Overview
 
 `/ping` Check the status of JAPER AWS API Gateway.
 
@@ -29,12 +38,6 @@ Welcome to the official public repository for the JAPER Technology API, where yo
 `/v1/x/validate/sms` Dispatch a validation SMS PIN.
 
 `/v1/x/validation/status` Check a JAPER Customer's opt-out status.
-
-## Getting Started
-
-1. Sign up for an account at [www.japer.technology](https://www.japer.technology/shop) and purchase your API key.
-2. Read the API documentation at [developer.japer.io](https://developer.japer.io) and understand out interface.
-3. Use this GitHub documentation to quick start your implementation.
 
 ## Contributing and Feedback
 
