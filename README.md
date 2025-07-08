@@ -1,7 +1,6 @@
-# developer.japer.io GitHub
+# JAPER@GitHub
 
 ### Welcome to the official public repository of resource for use with the JAPER Technology API.
-
 
 ## Getting Started
 
