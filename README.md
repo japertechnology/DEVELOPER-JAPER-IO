@@ -5,7 +5,7 @@
 ## Getting Started
 
 1. Sign up for an account at [www.japer.technology](https://www.japer.technology/shop) and purchase your API key.
-2. Read the API documentation at [developer.japer.io](https://developer.japer.io) and understand out interface.
+2. Read the API documentation at [developer.japer.io](https://developer.japer.io) and understand **our** interface.
 3. Use this GitHub documentation to quick start your implementation.
 
 ## API Overview
