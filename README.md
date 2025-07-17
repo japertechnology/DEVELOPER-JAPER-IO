@@ -40,6 +40,12 @@ JAPER is a security-focused platform that helps developers manage devices, valid
 
 `/v1/x/validation/status` Check a JAPER Customer's opt-out status.
 
+## Examples
+
+The [examples/node](examples/node) folder contains a simple Node.js script.
+Set the `NODE_API_KEY` environment variable and run `node ping.js` to
+ping the API.
+
 ## Contributing and Feedback
 
 Contributions are welcome! Feel free to open issues or submit pull requests if you find problems or want to suggest improvements. For direct feedback, use the contact information on [developer.japer.io](https://developer.japer.io).
