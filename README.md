@@ -1,6 +1,6 @@
 # DEVELOPER-JAPER-IO
 
-### Welcome to the official public repository of resource for use with the JAPER Technology API.
+official public repository of **resources** for use with the JAPER Technology API.
 
 JAPER is a security-focused platform that helps developers manage devices, validate users, and protect data. The API supports secure device creation and lifecycle management, multi-channel validation via email, SMS, or domain checks, and robust encryption and decryption services. Typical use cases include controlling devices for IoT deployments, verifying customer identities, and safeguarding sensitive information.
 
