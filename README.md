@@ -56,4 +56,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests if y
 
 This repository is released under the [MIT License](LICENSE.md). By contributing, you agree that your contributions will be licensed under the MIT License as well.
 
-![JAPER](https://github.com/japertechnology/DEVELOPER-JAPER-IO/blob/df569f40620c4f737ecd81938f2bcf0df4760f3b/asset/images/JAPER-White.png)
+![JAPER](https://japertechnology.github.io/JAPER-Black.svg)
